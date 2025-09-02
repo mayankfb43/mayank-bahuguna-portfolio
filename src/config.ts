@@ -28,9 +28,6 @@ export const siteConfig = {
     "Vitest",
     "Jest",
     "React Testing Library",
-    "SASS",
-    "AWS",
-    "Docker",
   ],
   projects: [
     {
