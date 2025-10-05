@@ -94,11 +94,11 @@ export const siteConfig = {
       title: "Software Engineer / Front-End Development Team Lead",
       dateRange: "Mar 2022 – Present",
       bullets: [
-        "Led front-end development for React.js projects as team lead.",
-        "Delivered Medallia Concierge and Agile Research projects with modern React ecosystem.",
-        "Integrated real-time messaging with Socket.IO.",
-        "Implemented scalable state management with Redux Toolkit and Reselect.",
-        "Ensured accessibility compliance (WCAG) in enterprise projects.",
+        "Built dynamic, responsive UIs with React.js (Hooks, Context API), MUI5, and Webpack Module Federation.",
+        "Integrated Redux Toolkit for global state management and Socket.IO for real-time messaging.",
+        "Developed reusable form components with React Hook Form, improving developer productivity by 25%.",
+        "Reduced page load time by 30% through code splitting and lazy loading.",
+        "Maintained CI/CD pipelines with Azure DevOps and managed workflows in Jira.",
       ],
     },
     {
